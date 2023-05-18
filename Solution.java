@@ -6,6 +6,6 @@ public class Solution {
         int a=8;
 >>>>>>> e8f9ceb5cddcb817b2b61b9e2316eb991fad8269
         int b=5;
-        System.out.print(a+b);
+        System.out.print(a*b);
     }
 }
